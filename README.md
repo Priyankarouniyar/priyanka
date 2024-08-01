@@ -1,4 +1,4 @@
 # priyanka
 learning git repository
 <br>
-author-priyanka
+author-priyanka rouniyar
